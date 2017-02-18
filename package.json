@@ -1,0 +1,14 @@
+{
+  "name": "notifier",
+  "version": "1.0.0",
+  "description": "Notification Integrated Microservices",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "notification"
+  ],
+  "author": "Ali Karami",
+  "license": "ISC"
+}
